@@ -54,24 +54,24 @@ Firstly you need to clone this repo:
 Go to destination folder:
 >cd contactManagerProj
 
-#After that install project dependencies by executing:
+### After that install project dependencies by executing:
 
-> `$ npm install` or >`$ yarn install`
+> `$ npm install` or `$ yarn install`
 
-# Start the application:
+### Start the application:
 
-> `$ npm start` or >`$ yarn start`
+> `$ npm start` or `$ yarn start`
 
 Now you are running app in development mode.
 
-# To build project in android emulator, run following:
+### To build project in android emulator, run following:
 
-> `$ npm run android` or >`$ yarn android`
+> `$ npm run android` or `$ yarn android`
 
 You can try to run app in ios, but note that maybe some functions won't work:
-> `$ npm run ios` or >`$ yarn ios`
+> `$ npm run ios` or `$ yarn ios`
 
-# To testing project with simple test you can run:
+### To testing project with simple test you can run:
 
 >`$ npm test`
 
